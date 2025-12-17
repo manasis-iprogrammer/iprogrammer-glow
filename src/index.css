@@ -7,7 +7,7 @@
 @layer base {
   :root {
     /* iProgrammer Brand Colors */
-    --background: 214 45% 8%;
+    --background: 0 0% 0%;
     --foreground: 0 0% 100%;
 
     --card: 214 42% 12%;
@@ -46,7 +46,7 @@
   }
 
   .dark {
-    --background: 214 45% 8%;
+    --background: 0 0% 0%;
     --foreground: 0 0% 100%;
   }
 }
